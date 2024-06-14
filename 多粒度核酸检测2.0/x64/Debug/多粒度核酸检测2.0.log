@@ -1,0 +1,5 @@
+﻿  多粒度核酸检测2.0.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\aidou\source\repos\多粒度核酸检测2.0\多粒度核酸检测2.0\多粒度核酸检测2.0.cpp(513,27): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\aidou\source\repos\多粒度核酸检测2.0\多粒度核酸检测2.0\多粒度核酸检测2.0.cpp(404): warning C4715: “PPchar”: 不是所有的控件路径都返回值
+  多粒度核酸检测2.0.vcxproj -> C:\Users\aidou\source\repos\多粒度核酸检测2.0\x64\Debug\多粒度核酸检测2.0.exe
